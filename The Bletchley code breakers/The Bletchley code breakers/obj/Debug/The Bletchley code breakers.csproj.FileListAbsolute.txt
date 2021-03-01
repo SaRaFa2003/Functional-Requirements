@@ -1,0 +1,9 @@
+C:\Users\PC04-204\Downloads\Functional-Requirements-BackgroundChange\The Bletchley code breakers\The Bletchley code breakers\bin\Debug\The Bletchley code breakers.exe.config
+C:\Users\PC04-204\Downloads\Functional-Requirements-BackgroundChange\The Bletchley code breakers\The Bletchley code breakers\bin\Debug\The Bletchley code breakers.exe
+C:\Users\PC04-204\Downloads\Functional-Requirements-BackgroundChange\The Bletchley code breakers\The Bletchley code breakers\bin\Debug\The Bletchley code breakers.pdb
+C:\Users\PC04-204\Downloads\Functional-Requirements-BackgroundChange\The Bletchley code breakers\The Bletchley code breakers\obj\Debug\The Bletchley code breakers.csprojAssemblyReference.cache
+C:\Users\PC04-204\Downloads\Functional-Requirements-BackgroundChange\The Bletchley code breakers\The Bletchley code breakers\obj\Debug\The_Bletchley_code_breakers.Properties.Resources.resources
+C:\Users\PC04-204\Downloads\Functional-Requirements-BackgroundChange\The Bletchley code breakers\The Bletchley code breakers\obj\Debug\The Bletchley code breakers.csproj.GenerateResource.cache
+C:\Users\PC04-204\Downloads\Functional-Requirements-BackgroundChange\The Bletchley code breakers\The Bletchley code breakers\obj\Debug\The Bletchley code breakers.csproj.CoreCompileInputs.cache
+C:\Users\PC04-204\Downloads\Functional-Requirements-BackgroundChange\The Bletchley code breakers\The Bletchley code breakers\obj\Debug\The Bletchley code breakers.exe
+C:\Users\PC04-204\Downloads\Functional-Requirements-BackgroundChange\The Bletchley code breakers\The Bletchley code breakers\obj\Debug\The Bletchley code breakers.pdb
